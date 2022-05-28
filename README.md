@@ -1,4 +1,5 @@
 # Итоговое задание по вёрстке | MediaSoft
+![Иллюстрация к проекту](https://github.com/legion088/mediasoft/blob/master/img/illustration.png)
 
 Требования к итоговому заданию:
 
